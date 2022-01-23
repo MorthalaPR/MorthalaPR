@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Morthala Sathwik 
+- 👀 I’m interested in Blockchain Development, Metaverses, NFT's
+- ❤️ I'm very passionate about Penetration Testing, Offensive Security.
+- 😃 And I'm open for intern roles as well as learning collaboratively with other folks in the domain of Blockchain.
+- 🌱 I’m currently improving my skills in smart contacts development by doing projects 
+- 💞️ I’m looking to collaborate on smart contacts development
+- 📫 My E-Mail ID : morthalapr@gmail.com
